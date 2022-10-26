@@ -10,7 +10,8 @@
 [Tutorial interactivo de Git](https://learngitbranching.js.org/?locale=es_ES) Aquí encuentra un tutorial de manejo de git para gestión local y remota de su repositorio.\
 [Patrones de diseño para automatización de pruebas](https://youtube.com/playlist?list=PLQxDOQ6Qm9Uw1pgyi3yDqLIjVjApi6U6c) Videos sobre los patrones de deseño para el diseño de pruebas de software\
 [Documentación pytest para testeo con python](https://docs.pytest.org/en/7.1.x/) Aquí encuentra documentación de la herramienta pytest que sirve para realizar automatización de pruebas de sistemas de software.\
-[Documentación Robot framework](https://robotframework.org/?tab=1#getting-started) Otra herramienta de testeo construida en python para automatización de pruebas\
+[Documentación Robot framework](https://robotframework.org/robotframework/latest/libraries/BuiltIn.html) Otra herramienta de testeo construida en python para automatización de pruebas\
+[Documentación Robot framework con Selenium](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html#library-documentation-top) Keywords disponibles para testeo en robot con la librería de Selenium\
 [Documentación sintaxis de robot](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#creating-test-data) Documentación de sintaxis de robot\
 [Uso de python para automatización de tests con selenium](https://www.javatpoint.com/selenium-python#automation) Otra herramienta para la automatización de pruebas
 
